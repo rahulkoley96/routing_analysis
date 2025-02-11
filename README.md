@@ -8,8 +8,9 @@ This is a sample bar chart generated using Matplotlib:
 
 
 
-# Sample Line Graph
+# Sales Trend Over 5 Days
 
-This is a sample Line chart generated using Matplotlib:
+This is a sample line graph generated using Matplotlib:
 
-![Line Chart](line_graph.png)
+![Line Graph](line_graph.png)
+
