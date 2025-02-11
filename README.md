@@ -5,3 +5,11 @@ Routing Analysis in Geographic Information Systems (GIS) is the process of deter
 This is a sample bar chart generated using Matplotlib:
 
 ![Bar Chart](chart.png)
+
+
+
+# Sample Line Graph
+
+This is a sample Line chart generated using Matplotlib:
+
+![Line Chart](line_graph.png)
