@@ -18,7 +18,6 @@ This is a sample line graph generated using Matplotlib:
 # Network mapping form Source to Destination
 
 This is a shortest route generated based on PG-Routing visualizing the data using Matplotlib:
-
 ![Shortest route](Network_Map.png)
 
 
