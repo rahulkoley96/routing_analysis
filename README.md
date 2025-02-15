@@ -23,6 +23,8 @@ This is a shortest route generated based on PG-Routing visualizing the data usin
 This is a shortest route generated based on PG-Routing visualizing the data using Matplotlib USER-II:
 ![Shortest route](Network_Map_2.png)
 
+This is a shortest route generated based on PG-Routing visualizing the data using Matplotlib ALL USER:
+![Shortest route](Network_Map_1_4.png)
 
 
 
