@@ -7,8 +7,8 @@ This is a sample bar chart generated using Matplotlib:
 ![Bar Chart](chart.png) -->
 
 
-
-<!-- # Sales Trend Over 5 Days
+<!-- 
+# Sales Trend Over 5 Days
 
 This is a sample line graph generated using Matplotlib:
 
@@ -19,7 +19,7 @@ This is a sample line graph generated using Matplotlib:
 
 This is a shortest route generated based on PG-Routing visualizing the data using Matplotlib:
 
-![Shortest route ](Network_Map.png)
+![Shortest route](Network_Map.png)
 
 
 
