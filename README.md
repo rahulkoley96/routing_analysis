@@ -19,7 +19,7 @@ This is a sample line graph generated using Matplotlib:
 
 This is a shortest route generated based on PG-Routing visualizing the data using Matplotlib:
 
-![Shortest route ](Network_Map_1.png)
+![Shortest route ](Network_Map.png)
 
 
 
